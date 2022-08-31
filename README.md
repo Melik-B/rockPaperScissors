@@ -27,6 +27,6 @@ Hello, the purpose of this console project is to play the <b><i>ROCK PAPER SCİS
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Rock Paper Scissors](https://github.com/Melik-B/rockPaperScissors)
 
 <p align="right">-Melik Baykal</p>
