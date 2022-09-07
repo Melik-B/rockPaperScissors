@@ -29,4 +29,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Rock Paper Scissors](https://github.com/Melik-B/rockPaperScissors)
 
-<p align="right">-Melik Bayka</p>
+<p align="right">-Melik Baykal</p>
